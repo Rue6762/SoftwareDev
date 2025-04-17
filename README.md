@@ -1,29 +1,24 @@
-# vue-view
+# Order Management System(OMS)
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a system for managing customer orders, suitable for small business or personal projects
 
-## Recommended IDE Setup
+## Function
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Install
 
-## Customize configuration
+### Install Package
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+-[Installation Package Hyperlink]()
 
-## Project Setup
+## Folder Description
 
-```sh
-npm install
-```
+## Project Technology
 
-### Compile and Hot-Reload for Development
+- Node.js
+- Vue v3
+- Vite v4
+- Vue Router v4
+- Axios
+- Bootstrap
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Contact The Author
